@@ -21,5 +21,9 @@ button a {
 ```
 
 Yukaridaki ornekte ise parser sagdan sola dogru parse eder ve sirasiyla:
+
 1- Butun `a` elementlerini bul
-2- Bu `a` elementlerinin `button` elementinin altinda olup olmadigini kontrol et adimlarini izler. [Performans acisindan](performans.md) 2. ornekteki selectorun tamamini `.button-link` olarak degistirebiliriz.
+
+2- Bu `a` elementlerinin `button` elementinin altinda olup olmadigini kontrol et adimlarini izler. 
+
+[Performans acisindan](performans.md) 2. ornekteki selectorun tamamini `.button-link` olarak degistirebiliriz.
